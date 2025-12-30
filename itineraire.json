@@ -1,0 +1,113 @@
+{
+  "pays": "Bosnie-Herzégovine",
+  "drapeau": "🇧🇦",
+  "symbole": "🕌",
+  "titre": "Escapade relaxante à Sarajevo",
+  "budget_total": "400€",
+  "duree": "2 jours",
+  "temps_vol": "4h30 depuis Paris, france",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et première immersion douce",
+      "legende": "Débutez votre séjour par une arrivée en douceur dans la capitale bosnienne. Après l'installation, laissez-vous charmer par l'ambiance unique de la vieille ville ottomane, Baščaršija. Flânez dans ses ruelles pavées, imprégnez-vous de son histoire et savourez un premier repas typique dans un cadre apaisant.",
+      "lieu": "Sarajevo",
+      "activites": [
+        "<strong>🛬 Arrivée à Sarajevo</strong>: Atterrissage à l'aéroport international de Sarajevo et transfert vers le centre-ville pour votre hébergement.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Check-in et dépôt des bagages pour vous rafraîchir avant de partir à la découverte.",
+        "<strong>🚶‍♂️ Balade relaxante à Baščaršija</strong>: Explorez le cœur historique de Sarajevo, ses bazars, ses mosquées et ses fontaines, un véritable voyage dans le temps."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le transfert de l'aéroport au centre-ville de Sarajevo peut se faire facilement en bus public ou en taxi, offrant une première vue sur la ville."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Cuisine locale",
+          "texte": "Ne manquez pas de goûter les ćevapi ou le burek dans un restaurant traditionnel de Baščaršija pour votre dîner."
+        }
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Baščaršija, Sarajevo",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 43.8594, "lng": 18.4310 }
+        },
+        {
+          "nom_recherche": "Fontaine Sebilj, Sarajevo",
+          "categorie": "Monument",
+          "coords": { "lat": 43.8592, "lng": 18.4312 }
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Détente nature et vues panoramiques",
+      "legende": "Cette journée est dédiée à la relaxation et à la contemplation des paysages. Commencez par une escapade verdoyante aux sources de la Bosna, un havre de paix. L'après-midi, prenez de la hauteur pour admirer Sarajevo depuis le Mont Trebević, offrant des panoramas inoubliables avant votre départ.",
+      "lieu": "Sarajevo",
+      "activites": [
+        "<strong>🌳 Promenade à Vrelo Bosne</strong>: Visitez les magnifiques sources de la rivière Bosna, un parc naturel idéal pour une balade paisible et ressourçante.",
+        "<strong>🚠 Montée en téléphérique au Mont Trebević</strong>: Profitez d'une vue imprenable sur Sarajevo en empruntant le téléphérique, une expérience relaxante et panoramique.",
+        "<strong>☕ Pause café avec vue</strong>: Savourez un café ou une boisson rafraîchissante au sommet du Mont Trebević, en admirant le paysage avant de redescendre."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Conseil",
+          "texte": "À Vrelo Bosne, vous pouvez louer un vélo ou faire une promenade en calèche pour explorer le parc à votre rythme."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Photo",
+          "texte": "Le Mont Trebević offre des points de vue spectaculaires sur la ville, parfaits pour des photos souvenirs."
+        }
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Vrelo Bosne, Ilidža",
+          "categorie": "Parc naturel",
+          "coords": { "lat": 43.8200, "lng": 18.2800 }
+        },
+        {
+          "nom_recherche": "Sarajevo Cable Car, Sarajevo",
+          "categorie": "Téléphérique",
+          "coords": { "lat": 43.8569, "lng": 18.4389 }
+        },
+        {
+          "nom_recherche": "Mont Trebević, Sarajevo",
+          "categorie": "Montagne",
+          "coords": { "lat": 43.8430, "lng": 18.4550 }
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 219 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "30 €/pers", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "70 €/pers", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "60 €/pers", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "20 €/pers", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Juin", "symbole": "☀️" },
+    { "titre": "Septembre à Octobre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie locale est le Mark convertible (BAM). Les cartes de crédit sont acceptées dans la plupart des établissements, mais prévoyez du liquide pour les petits commerces.", "symbole": "💳" },
+    { "titre": "Les températures en juin sont généralement douces, entre 15 et 25°C. Prévoyez des vêtements confortables et une veste légère pour les soirées.", "symbole": "☀️" },
+    { "titre": "Le bosnien est la langue officielle, mais l'anglais est couramment parlé dans les zones touristiques et par les jeunes.", "symbole": "🗣️" },
+    { "titre": "Sarajevo est une ville sûre, mais comme dans toute destination touristique, restez vigilant et prenez les précautions habituelles.", "symbole": "✅" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-SJJ/2026-06-12/2026-06-14", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Sarajevo", "url": "https://sarajevo.travel/", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Sarajevo", "url": "https://www.accuweather.com/fr/ba/sarajevo/300403/weather-forecast/300403", "symbole": "🌤️" }
+  ]
+}
